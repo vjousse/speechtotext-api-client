@@ -1,4 +1,8 @@
-# my new project
+# Speech to text API client
+
+
+A frontend client to the [Speech to text API backend](https://github.com/vjousse/speechtotext-api).
+
 > 🌳  built with [elm-spa](https://elm-spa.dev)
 
 ## dependencies
