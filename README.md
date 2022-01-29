@@ -12,6 +12,7 @@ npm install -g elm elm-spa
 ## running locally
 
 ```bash
+npm install
 npm run dev  # starts this app at http:/localhost:1234
 ```
 
@@ -26,3 +27,8 @@ elm-spa watch  # runs build as you code (without the server)
 ## Proxy calls to the API
 
     mitmproxy --mode reverse:http://localhost:8000 -p 5001
+
+## Screenshots
+
+![File list](/screenshots/speechtotext_screenshot.png)
+![Upload File](/screenshots/speechtotext_screenshot_2.png)
